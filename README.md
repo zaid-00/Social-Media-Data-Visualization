@@ -9,6 +9,5 @@ Feel free to explore the code and visualizations and leave your feedback. Thank 
 
 Example
 ![image](https://user-images.githubusercontent.com/126071672/230137986-71164417-a63c-463b-ac82-18b17e76e7d9.png)
-![image](https://user-images.githubusercontent.com/126071672/230138172-5bb77a32-60c1-40b3-b5db-07dd429499ef.png)
 ![image](https://user-images.githubusercontent.com/126071672/230138300-f8698224-45ac-41ba-aff1-a36cce733fdb.png)
 ![image](https://user-images.githubusercontent.com/126071672/230138404-a5bac05a-50f2-434f-954e-c0d9c9338dd8.png)
