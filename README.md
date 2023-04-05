@@ -8,8 +8,6 @@ The goal of this project is to provide a deeper understanding of social media da
 Feel free to explore the code and visualizations and leave your feedback. Thank you for visiting!
 
 Example
-
-![image](https://user-images.githubusercontent.com/126071672/230137880-3e36f779-1145-4f9f-be2a-26cb74eeaebb.png)
 ![image](https://user-images.githubusercontent.com/126071672/230137986-71164417-a63c-463b-ac82-18b17e76e7d9.png)
 ![image](https://user-images.githubusercontent.com/126071672/230138172-5bb77a32-60c1-40b3-b5db-07dd429499ef.png)
 ![image](https://user-images.githubusercontent.com/126071672/230138300-f8698224-45ac-41ba-aff1-a36cce733fdb.png)
